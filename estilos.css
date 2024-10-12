@@ -1,0 +1,39 @@
+body {
+    background-color: #ffffff; 
+    font-family: 'Georgia', serif; 
+    color: #333; 
+}
+
+header h1 {
+    color: #FFC0CB; 
+}
+
+main h2 {
+    color: #FFC0CB; 
+}
+
+main h3 {
+    color: #FFC0CB; 
+}
+
+nav ul li a {
+    color: #ad2490; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+nav ul li a.special {
+    color: #ff4794c2;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.6; 
+}
+
+h2 {
+    color: #FFC0CB; 
+}
